@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "icons":{"128":"128.png"},
+    "name":"Coder's Profiles",
+    "description":"A Profile Launcher to store all your coding profiles.Use full for a programmer",
+    "version":"1.0.0",
+    "permissions":["storage","activeTab"],
+    "browser_action":{
+        "default_icon":"16.png",
+        "default_popup":"popup.html"
+    }
+
+}
